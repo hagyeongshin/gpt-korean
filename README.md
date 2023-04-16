@@ -1,0 +1,1 @@
+This repository will contain codes to test GPT models with Korean.
